@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7977d8ee-9278-489b-87e8-1ae0d7603329" name="zrun.run">
+        <fileTransfer accessType="SFTP" host="zrun.run" port="22" sshConfigId="398d7776-1bf4-4d28-9dc0-c8a960041ab3" sshConfig="root@zrun.run:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

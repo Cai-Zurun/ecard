@@ -1,0 +1,30 @@
+{
+  "id": "1589608",
+  "name": "阿卡云盾pc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7175897",
+      "name": "过滤",
+      "font_class": "guolv",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "9925193",
+      "name": "放大",
+      "font_class": "fangda-",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "10111167",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    }
+  ]
+}
